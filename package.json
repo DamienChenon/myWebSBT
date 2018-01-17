@@ -1,0 +1,19 @@
+{
+  "name": "mywebsbt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dami3nC/myWebSBT.git"
+  },
+  "author": "dami3nC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dami3nC/myWebSBT/issues"
+  },
+  "homepage": "https://github.com/dami3nC/myWebSBT#readme"
+}
