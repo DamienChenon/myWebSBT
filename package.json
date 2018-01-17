@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dami3nC/myWebSBT/issues"
   },
-  "homepage": "https://github.com/dami3nC/myWebSBT#readme"
+  "homepage": "https://github.com/dami3nC/myWebSBT#readme",
+  "dependencies": {
+    "webdriverio": "^4.10.1"
+  }
 }
